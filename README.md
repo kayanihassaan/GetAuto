@@ -1,4 +1,4 @@
-# 🚗 GetAuto - Vehicle Rental Marketplace PWA
+# GetAuto - Vehicle Rental Marketplace PWA
 
 A fully offline-capable Progressive Web App for listing, browsing, and booking vehicles (cars, bikes, buses) with vendor/customer roles, email-OTP authentication, wishlist, ratings, and a vendor dashboard.
 
